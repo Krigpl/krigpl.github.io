@@ -1,0 +1,6 @@
+Application Wifi Time Tracker collects and stores the history of your connections to Wifi networks.
+All that data and the other data that the user creates in the application (like labels) is stored on the device only and is not send to any remote servers.
+
+The application uses Google Firebase Analytics SDK for storing basic events about the app usage (event like "app opened", "app uninstalled", "app crashed", etc). That data is collected in an anynymised fashion.
+
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
