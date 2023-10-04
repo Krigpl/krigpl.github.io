@@ -10,6 +10,6 @@ The following two permissions are required for the application to function corre
 Both permissions are required to provide the best user experience, however it's possible to use the app without the latter, if the user will always remember to open the app after each phone boot.
 At the same time, the application doesn't access/collect the user's location in any other way (e.g. GPS coordinates), permissions are required only for the purpose of obtaining the wifi network name. 
 
-The application uses Google Firebase Analytics SDK for storing basic events about the app usage (event like "app opened", "app uninstalled", "app crashed", etc). That data is collected in an anynymised fashion.
+The application uses Google Firebase Analytics SDK for storing basic events about the app usage (events like "app opened", "app uninstalled", "app crashed", etc). That data is collected in an anynymised fashion.
 
 If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
